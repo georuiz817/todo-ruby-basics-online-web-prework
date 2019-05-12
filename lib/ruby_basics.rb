@@ -19,7 +19,8 @@ def return_a_value(valuereturn="Nice")
   "#{valuereturn}"
 end
 
-def last_evaluated_value
+def last_evaluated_value()
+  "expert"
 
 end
 
